@@ -19,7 +19,7 @@ Built for the WomenTechQuest (WTQ) 2026 Build Track.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/utility-bill-decoder.git
+   git clone https://github.com/buildswithaamina/utility-bill-decoder
    cd utility-bill-decoder
    ```
 
