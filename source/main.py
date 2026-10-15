@@ -89,6 +89,12 @@ def answer_level2(image_bytes, question, model_name):
     - Explain ambiguous interpretations.
     - Exclude personal identifiers.
     - Write your answer in plain English.
+
+    CRITICAL CHART READING RULES:
+    When analyzing the "13 Month Usage History" bar chart, you must strictly align the data:
+    1. Read the exact number written vertically inside each bar.
+    2. Match it ONLY to the specific month abbreviation located directly below that exact bar.
+    3. Read the chart sequentially from left to right (from 2025 to 2026) to ensure you do not skip or misalign months before determining the highest or lowest values. 
     
     Customer Question: {question}
     """
