@@ -1,0 +1,13 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Project specific ignores (Optional: prevents uploading massive image datasets)
+train/
+test/
+output/
